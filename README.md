@@ -32,7 +32,7 @@ sonra Kullanıcıdan alınan bilgilerle varlıklar arasındaki ilişkiler kurulu
 Program, KOnut sistemi üzerine bir simulasyon yaparak, farklı varlıklar arasındaki ilişkileri gösterir ve kullanıcıdan alınan bilgilerle bu ilişkileri kurar.
 
 ##Nasıl Kullanılacağı: 
-bu programı kullanmak için bir java derleyicisine ihtiyanız var 
+bu programı kullanmak için bir java derleyicisine ihtiyacınız var 
 
 sonra proje calıstırdığınızda ilk önce sizden daire adını isteyecek 
 
@@ -40,7 +40,7 @@ sonra apartman numarası,Konut Adresi,Bina Adresi,Kat Sayisi,Kiraci Adi,Kiraci S
 
 alt alta düzenli bir şekilde hepsini yazdıracak.
 
-##Kodun Algoritması:
+##Kodun Algoritması:##
 
 bu java kodu bir gayrimenkul yönetim sistemini simüle eden bir örnek uygulamadır
 
