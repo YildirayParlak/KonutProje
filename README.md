@@ -40,7 +40,7 @@ sonra apartman numarası,Konut Adresi,Bina Adresi,Kat Sayisi,Kiraci Adi,Kiraci S
 
 alt alta düzenli bir şekilde hepsini yazdıracak.
 
-##Kodun Algoritması:##
+##Kodun Algoritması:
 
 bu java kodu bir gayrimenkul yönetim sistemini simüle eden bir örnek uygulamadır
 
