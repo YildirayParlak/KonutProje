@@ -18,13 +18,15 @@ sonra Kullanıcıdan alınan bilgilerle varlıklar arasındaki ilişkiler kurulu
 **Sıralama ve Karşılaştırma:**
 - Daireler apartman numaralarına göre sıralanabilir.
 Program, KOnut sistemi üzerine bir simulasyon yaparak, farklı varlıklar arasındaki ilişkileri gösterir ve kullanıcıdan alınan bilgilerle bu ilişkileri kurar.
-
+****************************************************************************************************************************
 ##Nasıl Kullanılacağı: 
+
 bu programı kullanmak için bir java derleyicisine ihtiyacınız var 
 sonra proje calıstırdığınızda ilk önce sizden daire adını isteyecek 
-sonra apartman numarası,Konut Adresi,Bina Adresi,Kat Sayisi,Kiraci Adi,Kiraci Soyadi,Ev Sahibi Adi,Ev Sahibi Soyadi  bilgilrei alacak ondan sonra bütn bbu bilgilerialt alta düzenli bir şekilde hepsini yazdıracak.
-
+sonra apartman numarası,Konut Adresi,Bina Adresi,Kat Sayisi,Kiraci Adi,Kiraci Soyadi,Ev Sahibi Adi,Ev Sahibi Soyadi  bilgilrei alacak ondan sonra bütn bu bilgileri alt alta düzenli bir şekilde hepsini yazdıracak.
+****************************************************************************************************************************
 ##Kodun Algoritması:
+
 bu java kodu bir gayrimenkul yönetim sistemini simüle eden bir örnek uygulamadır
 **`Createable`** interface’i: Bu arayüz, **`create`** adında bir metot içerir ve bu metot, implemente eden sınıfların bir nesne oluştururken kullanıcıdan gerekli bilgilerin almasını sağlar.örenğin:evsahibinin adını 
 **`Adressable`** soyut sınıfı: Adres bilgisini içerir ve **`displayInfo`** adında soyut bir metot içerir. Bu metot ile bilgileri yazdırırız.
